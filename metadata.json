@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Client Outreach Dashboard",
+  "description": "Professional AI client outreach dashboard for graphic designer Muhammad Maaz with opportunity identification, personalized multi-channel messaging, and secure official account connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
